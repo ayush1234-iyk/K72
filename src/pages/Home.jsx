@@ -1,6 +1,6 @@
 import React from "react";
-import Video from "../components/Home/video.jsx";
-import HomeHeroText from "../components/Home/HomeHeroText.jsx";
+import Video from "../components/home/video.jsx";
+import HomeHeroText from "../components/home/HomeHeroText.jsx"
 import HomeBottomText from "../components/Home/HomeBottomText.jsx";
 
 const Home = () => {
