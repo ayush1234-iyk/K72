@@ -1,7 +1,7 @@
 import React from "react";
-import Video from "../components/home/Video";
-import HomeHeroText from "../components/home/HomeHeroText";
-import HomeBottomText from "../components/home/HomeBottomText";
+import Video from "../components/Home/video.jsx";
+import HomeHeroText from "../components/Home/HomeHeroText.jsx";
+import HomeBottomText from "../components/Home/HomeBottomText.jsx";
 
 const Home = () => {
   return (
@@ -21,5 +21,6 @@ const Home = () => {
 };
 
 export default Home;
+
 
 
